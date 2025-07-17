@@ -121,7 +121,7 @@ def caesar_shift(text, shift):
 
 ## 🏷️ License
 
-This project is open-source and free to use under the [MIT License](LICENSE).
+This project is open-source and free to use.
 
 
 ## 🤝 Contributions
